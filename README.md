@@ -42,7 +42,7 @@ Type in desired IP addresses to find out the resoliution between them.
 
 IP addresses should be typed in one at a time, each followed by "Enter"
 
-NOTE: this program only supports full format IPv4 and IPv6 addresses 
-e.g  IPv4 --> 192.0.2.146  IPv6 --> 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+NOTE: this program only supports full format IPv4 and IPv6 addresses e.g  
+IPv4 --> 192.0.2.146    IPv6 --> 2001:0db8:85a3:0000:0000:8a2e:0370:7334
 
 
